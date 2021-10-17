@@ -1,4 +1,4 @@
-# Bubu Solutions
+# Bubo Solutions
 
 ## Projets en cours
 
